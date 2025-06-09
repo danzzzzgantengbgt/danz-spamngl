@@ -30,10 +30,16 @@ Tools spam NGL.link buat lu yang gabisa move on!
 ---  
 
 🎮 CARA PAKAI:  
-1. Install dulu:  
-   "bash"
+1. Install :  
+ -  pkg uprgade && pkg update
+ -  pkg install git
+ -  pkg install bash
+ -  git clone https://github.com/danzzzzgantengbgt/danz-spamngl
+ -  cd danz-spamngl
  -  npm install
  -  npm start 
+## review & tutor ?
+- Link video v1 (old) <code><a href="">klik disini</a></code>
      
 2. Pilih jenis quotes:  
    `1` buat galau | `2` buat dark  
@@ -91,7 +97,7 @@ Danz
 🏷 TAGAR: 
 #HargaiCreator #BantuFollow #JanganHapusCredit #Mendunia2025  
 #ScriptGratis #ToolsSpam #SpamNgl #NglSpamFree #SpamPesan #Free
-#NoEnc100% #ToolsGratis #SpamTools
+#NoEnc100% #ToolsGratis #SpamTools #DragonTools
 
 © 2025 Danz - Gratis buat dipake pribadi  
 
