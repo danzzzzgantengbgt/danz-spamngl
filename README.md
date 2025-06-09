@@ -37,9 +37,8 @@ Tools spam NGL.link buat lu yang gabisa move on!
  -  git clone https://github.com/danzzzzgantengbgt/danz-spamngl
  -  cd danz-spamngl
  -  npm install
- -  npm start 
-## review & tutor ?
-- Link video v1 (old) <code><a href="">klik disini</a></code>
+ -  npm start
+ - Link video review & tutor  <code><a href="">klik disini</a></code>
      
 2. Pilih jenis quotes:  
    `1` buat galau | `2` buat dark  
