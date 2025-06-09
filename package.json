@@ -1,0 +1,15 @@
+{
+  "name": "ngl-spam-tools",
+  "version": "1.0",
+  "description": "Tools untuk spam pesan ke NGL secara otomatis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Danz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2"
+  }
+}
